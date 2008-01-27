@@ -1,4 +1,4 @@
-<php?
+<?php
 //config by whitenexx at support-network.info
 define('INCPATH', 'inc/');
 //MySQL information
