@@ -1,5 +1,5 @@
 <?php
-include('config.php');
+require('config.php');
 define('MYSQL_HOST', $mysqlhost);
 define('MYSQL_USER', $mysqluser);
 define('MYSQL_PASS', $mysqlpass);
