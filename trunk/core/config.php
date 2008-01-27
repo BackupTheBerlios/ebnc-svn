@@ -1,6 +1,6 @@
 <?php
 //config by whitenexx at support-network.info
-define('INCPATH', BASEPATH . 'inc/');
+define('INCPATH', BASEPATH . '/inc/');
 //MySQL information
 $mysqlhost = "localhost"; // the mysql server
 $mysqluser = "root"; // the username for mysqllogin
