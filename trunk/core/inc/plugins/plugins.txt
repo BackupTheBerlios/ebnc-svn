@@ -1,0 +1,2 @@
+Hier kommen die Erweiterungen bzw. Plugins für das CMS rein.
+Sie müssen in Ordnern sein, also z.B. /inc/plugins/blog-plugin oder /inc/plugins/wetter-anzeige ;
