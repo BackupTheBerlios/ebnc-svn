@@ -1,4 +1,4 @@
 <php?
  require('config.php');
- require('mysqlconnect.php');
+ require('INCPATH'.'mysqlconnect.php');
  echo INCPATH;
