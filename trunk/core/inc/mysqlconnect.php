@@ -1,5 +1,5 @@
-<php?
-include(INCPATH.'config.php');
+<?php
+include('config.php');
 define('MYSQL_HOST', $mysqlhost);
 define('MYSQL_USER', $mysqluser);
 define('MYSQL_PASS', $mysqlpass);
